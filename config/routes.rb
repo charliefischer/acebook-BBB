@@ -14,7 +14,9 @@ Rails.application.routes.draw do
   
   # resources :posts, only: [:index]
 
-  resources :posts
+  resources :posts do
+    resources :likes
+  end
 
 
   root to: 'posts#index'
