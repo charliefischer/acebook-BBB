@@ -18,4 +18,6 @@ Rails.application.routes.draw do
 
 
   root to: 'posts#index'
+
+  put '/post/:id/like', to: 'posts#like', as: 'like'
 end
