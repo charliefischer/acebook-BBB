@@ -13,4 +13,6 @@ end
   resources :profile_posts
 
   root to: 'posts#index'
+
+  get 'friends/requests' => 'friends#requests', :as => :friend_requests
 end
