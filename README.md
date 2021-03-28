@@ -47,6 +47,11 @@ The details of our user stories, planning etc can be found in our [trello](https
 | Storage              | Dev: Local / Heroku: AWS S3|
 | Testing and Coverage | RSpec, Capybara, Simplecov |
 
+## The Next Steps
+- Users can not comment on any posts
+- Be able to search for users
+- Only being able to see posts from your friends
+
 ## Team-BBB
 
 Our AMAZING team was made up of:
