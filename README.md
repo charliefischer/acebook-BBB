@@ -3,6 +3,8 @@
 [![Build Status](https://travis-ci.com/bear99a9/acebook-BBB.svg?branch=master)](https://travis-ci.com/bear99a9/acebook-BBB)
 [![Maintainability](https://api.codeclimate.com/v1/badges/15ba9653be0d8342e6ee/maintainability)](https://codeclimate.com/github/bear99a9/acebook-BBB/maintainability)
 
+<img src='./app/assets/images/BBB.png'>
+
 [Information](#Information) | [Quickstart](#Quickstart) | [Running Tests](#Running-Tests) | [Planning and Learning](#Planning-and-Learning) | [Technologies](#Technologies) | [Team BBB](#Team-BBB) <br />
 
 <div style='text-align: center'>
@@ -53,6 +55,12 @@ The details of our user stories, planning etc can be found in our [trello](https
 | Hosting              | Heroku                        |
 | Storage              | Dev: Local / Heroku: AWS S3   |
 | Testing and Coverage | RSpec, Capybara, Simplecov    |
+
+## The Next Steps
+
+- Users can not comment on any posts
+- Be able to search for users
+- Only being able to see posts from your friends
 
 ## Team-BBB
 
