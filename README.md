@@ -8,7 +8,7 @@
 [Information](#Information) | [Quickstart](#Quickstart) | [Running Tests](#Running-Tests) | [Planning and Learning](#Planning-and-Learning) | [Technologies](#Technologies) | [Team BBB](#Team-BBB) <br />
 
 <div style='text-align: center'>
-  <img src='https://github.com/charliefischer/acebook-bbb/docs/bbb.gif?raw=true' height='600px'>
+  <img src='https://github.com/charliefischer/acebook-BBB/blob/master/docs/bbb.gif?raw=true' height='600px'>
 </div>
 
 ## Information
